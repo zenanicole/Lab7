@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: MyProductMgmtApp
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: Zeu
+Implementation-Vendor-Id: edu.mum.cs.cs425.prodmgmt
+Build-Jdk: 1.8.0_201
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/MyProductMgmtApp
+Created-By: Maven Integration for Eclipse
+
